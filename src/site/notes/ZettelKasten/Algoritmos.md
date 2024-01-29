@@ -31,7 +31,12 @@ Se compone de 3 partes
 - Entrada
 - Proceso
 - Salida
-___
+
+>[!note] Ejemplo de Entrada / Proceso / Salida (Promedio de un numero de datos)
+>Entrada: El conjunto de numeros que se van a promediar
+>Proceso: 1. Contar el numero de datos 2. Sumarlos 3. Dividir por el numero de datos
+>Salida: El resultado de la operacion anterior 
+
 ## References
 1.
 
