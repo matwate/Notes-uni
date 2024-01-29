@@ -3,4 +3,4 @@
 ---
 
 Clases
-- 001 29/Enero/2024 [[Calculo 001\|Calculo 001]]
+- 001 29/Enero/2024 [[ZettelKasten/Funciones\|Funciones]]
