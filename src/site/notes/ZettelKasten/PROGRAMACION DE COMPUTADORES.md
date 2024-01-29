@@ -3,8 +3,7 @@
 ---
 
 
-dg-publish: true
 ---
 
 Clases
-- 001 [[ZettelKasten/Algoritmos\|Algoritmos]]
+- 001 29/Enero/2024 [[ZettelKasten/Algoritmos\|Algoritmos]]
