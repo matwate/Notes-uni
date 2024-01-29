@@ -1,6 +1,6 @@
 # Notas de la MACC Semestre 1
 
-### En este repo se publican los apuntes de MACC, primer semestre, para verlos ve a `https://notes-uni.vercel.app/`
+### En este repo se publican los apuntes de MACC, primer semestre, para verlos ve a [La pagina web](https://notes-uni.vercel.app/)
 
 Si quieres contribuir con tus apuntes
 
