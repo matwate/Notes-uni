@@ -12,3 +12,5 @@ Si quieres contribuir con tus apuntes
 # IMPORTANTE
 
 Los archivos .md Markdown con los apuntes estan en `src/site/notes/ZettelKasten` y usan la notacion Markdown de [Obsidian](https://obsidian.md/) tener eso en cuenta a la hora de contribuir
+
+A la hora de contribuir, Limitarse a añadir informacion o editar informacion con respecto a los apuntes, evitar modificar cuestiones de plugins y temas
