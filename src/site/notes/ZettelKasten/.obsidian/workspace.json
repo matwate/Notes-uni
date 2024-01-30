@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "e048803aa91159a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dfd715c6cb0c705",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09a1ee51b1b0e0b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logica/Sin título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57871373168566b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Libros/MATH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "548bcfd52dfb91a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d54cd18f888813b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ed91707733327af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f28035ae3d064875",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac688ffa8e679fd6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d7a6c926cf8df93",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b68e6b1c1d9f52a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fff54ea8181ddf58",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Libros/MATH.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a82f4776c72eddec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Libros/MATH.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0eb2ffcdbc5bbdc8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bdbff406fdef0538",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Libros/MATH.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "57871373168566b0",
+  "lastOpenFiles": [
+    "Logica/Sin título.md",
+    "Libros/MATH.md",
+    "math/continúa/respuestas -1- Apostol, Tom M. (2006). Calculus- Cálculo con funciones de una variable, con una introducción al álgebra lineal. Vol. 1. Segunda edición. México- Editorial Reverté..pdf",
+    "math/continúa",
+    "math/Calculo/-1- PRECALCULO Matemáticas Para el Cálculo. Cengage Learning, Séptima edición..pdf",
+    "math/Calculo/CALCULO_TRASCENDENTES_TEMPRANAS_8va_Edic.pdf",
+    "math/Calculo",
+    "math",
+    "programacion",
+    "Penasamiento",
+    "Libros",
+    "CALCULO 1.md",
+    "Algoritmos.md",
+    "Logica",
+    "PROGRAMACION DE COMPUTADORES.md",
+    "MACC Semestre 1.md",
+    "Funciones.md"
+  ]
+}
