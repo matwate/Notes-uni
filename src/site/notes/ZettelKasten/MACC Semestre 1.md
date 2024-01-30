@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/zettel-kasten/macc-semestre-1/","tags":["gardenEntry"]}
 ---
 
-#MOC
+
 ## MACC Semestre 1
 [[ZettelKasten/PROGRAMACION DE COMPUTADORES\|PROGRAMACION DE COMPUTADORES]]
 [[ZettelKasten/CALCULO 1\|CALCULO 1]]
