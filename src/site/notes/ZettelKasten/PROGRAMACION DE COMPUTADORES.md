@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/zettel-kasten/programacion-de-computadores/"}
 ---
 
-
+#MOC 
 ---
 
 Clases
