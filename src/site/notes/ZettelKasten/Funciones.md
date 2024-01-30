@@ -5,7 +5,7 @@
 
 # Funciones Trigonometricas de Numeros reales
 Creado: 2024-01-29 14:54
-Tema General:[[Matematicas\|Matematicas]]
+Tema General:[[ZettelKasten/Libros/Matematicas\|Matematicas]]
 Tag: #Topic
 
 
