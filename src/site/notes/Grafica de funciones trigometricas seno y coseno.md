@@ -35,8 +35,40 @@ y =\sin(x)
 ```
 ### Transformaciones de las funciones seno y coseno
 
+- Grafica de la funcion siguiente:
+	$f(x) = 2+\cos(x)$
+> [!hint]- Grafico
+> ```desmos-graph
+> y = 2 + \cos(x)
+>```
+- Grafica de la funcion siguiente:
+	$y = -\cos(x)$
+>[!hint]- Grafico
+>```desmos-graph
+>y = -\cos(x)
+>``` 
+- Grafica la siguiente funcion:
+	$y = 2sen(x)$
+>[!hint]- Grafico
+>```desmos-graph
+>top=3; bottom=-3;
+>---
+>y = 2\sin(x)
+>```
 
----
+**Por lo general en las funciones $y = a\sin(x)$  y $y=a\cos(x)$ el numero $|a|$ es el valor mas grande que alcanza la funcion y por ende su amplitud**
 
+- Hallar Amplitud y Grafica de $y = -3\cos(x)$
+>[!hint]- Grafico
+>```desmos-graph
+>y = -3\cos(x)
+>```
+
+Para una funcion $y = a\sin(kx)$ o $y=a \cos(kx)$ completa un periodo cuando $kx$ va de $0 \to 2\pi$  es decir $$
+0 \leq kx \leq 2\pi 
+$$
+$$
+0 \leq x \leq \frac{2\pi}{k}
+$$
 ## References
 1.
