@@ -8,6 +8,7 @@ Creado: 2024-01-31 15:00
 Tema General:[[ZettelKasten/Libros/Matematicas\|Matematicas]]
 Tag: #Topic 
 
+Nota: *Las expresiones matematicas y graficos no estan permitidos en DIgitalGarden, para verlos abra [Desmos](https://www.desmos.com/calculator?lang=es) y copie y pegue la expresion *
 
 ___
 ### Graficas de seno y coseno
