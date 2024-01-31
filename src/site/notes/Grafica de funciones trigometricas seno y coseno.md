@@ -65,11 +65,9 @@ y =\sin(x)
 >y = -3\cos(x)
 >```
 
-Para una funcion $y = a\sin(kx)$ o $y=a \cos(kx)$ completa un periodo cuando $kx$ va de $0 \to 2\pi$  es decir $$
-0 \leq kx \leq 2\pi 
-$$
-$$
-0 \leq x \leq \frac{2\pi}{k}
-$$
+Para una funcion $y = a\sin(kx)$ o $y=a \cos(kx)$ completa un periodo cuando $kx$ va de $0 \to 2\pi$  es decir 
+>[!hint] ‎‎.
+> $0 \leq kx \leq 2\pi$
+>$0 \leq x \leq \frac{2\pi}{k}$
 ## References
 1.
