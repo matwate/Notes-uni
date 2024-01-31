@@ -7,4 +7,4 @@
 
 Clases
 - 01 29/Enero/2024 [[ZettelKasten/Algoritmos\|Algoritmos]]
-- 02 31/Enero.2024 [[Algoritmos 2\|Algoritmos 2]]
+- 02 31/Enero.2024 [[ZettelKasten/Algoritmos 2\|Algoritmos 2]]
