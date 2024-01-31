@@ -8,7 +8,7 @@
 [[ZettelKasten/CALCULO 1\|CALCULO 1]]
 [[ZettelKasten/PENSAMIENTO MATEMATICO\|PENSAMIENTO MATEMATICO]]
 [[ZettelKasten/CATEDRA ROSARISTA\|CATEDRA ROSARISTA]]
-[[LECTURA CRITICA PARA ICT\|LECTURA CRITICA PARA ICT]]
-
+[[ZettelKasten/LECTURA CRITICA PARA ICT\|LECTURA CRITICA PARA ICT]]
+[[LOGICA, Teoria de numeros y Conjuntos\|LOGICA, Teoria de numeros y Conjuntos]]
 ##### Libros
 [[ZettelKasten/Libros/Matematicas\|Matematicas]]
