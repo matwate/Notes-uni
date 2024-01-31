@@ -69,5 +69,11 @@ Para una funcion $y = a\sin(kx)$ o $y=a \cos(kx)$ completa un periodo cuando $kx
 >[!hint] ‎‎.
 > $0 \leq kx \leq 2\pi$
 >$0 \leq x \leq \frac{2\pi}{k}$
+### Desfase de curvas seno y coseno
+
+Tomando $y=a\sin k(x-b)$ y $y = a\cos k(x-b)$ para $k > 0$
+- Tienen amplitud $|a|$ y periodo $\frac{2\pi}{k}$ 
+- Tienen desfase $b$
+- un intervalo apropiado sobre el cual graficar un periodo completo es $[b, b+(\frac{2\pi}{k})]$
 ## References
-1.
+1.[]
