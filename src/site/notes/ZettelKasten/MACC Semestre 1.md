@@ -9,6 +9,6 @@
 [[ZettelKasten/PENSAMIENTO MATEMATICO\|PENSAMIENTO MATEMATICO]]
 [[ZettelKasten/CATEDRA ROSARISTA\|CATEDRA ROSARISTA]]
 [[ZettelKasten/LECTURA CRITICA PARA ICT\|LECTURA CRITICA PARA ICT]]
-[[LOGICA, Teoria de numeros y Conjuntos\|LOGICA, Teoria de numeros y Conjuntos]]
+[[ZettelKasten/LOGICA, Teoria de numeros y Conjuntos\|LOGICA, Teoria de numeros y Conjuntos]]
 ##### Libros
 [[ZettelKasten/Libros/Matematicas\|Matematicas]]
