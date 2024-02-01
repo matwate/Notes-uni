@@ -59,7 +59,7 @@ $$
 2. Axioma Asociativo
 	 Si $x,y,z$ son numeros reales, entonces
 	 $$x+(y+z) =(x+y)+z \hspace{40px} x(yz)= (xy)z$$
-3. Propiedad Dsitributiva
+3. Propiedad Distributiva
 	Si $x,y,z$ son numeros reales, entonces
 	$$x(y+z) =xy+xz$$
 4. Axioma de existencia de elementos neutros
