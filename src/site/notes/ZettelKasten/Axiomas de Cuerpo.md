@@ -69,7 +69,8 @@ $$
 	 Para cada numero real $x$ existe un numero real $y$ tal que 
 	 $$x+y = y+x = 0$$
 6. Axioma de existencia del reciproco
-	 Para cada numero real $x$ existe un numero real $y$ tal que $$xy=yx=1$$
+	 Para cada numero real $x$ existe un numero real $y$ tal que 
+	 $$xy=yx=1$$
 ___
 ## References
 1.
