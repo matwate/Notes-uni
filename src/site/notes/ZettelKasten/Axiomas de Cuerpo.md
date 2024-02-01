@@ -55,8 +55,9 @@ $$
 ### Axiomas de cuerpo
 
 1. Axioma Conmutativo.
-	Si $x,y$ son numeros reales, entonces $$x+y =y+x \hspace{40px} xy=yx$$
-2. Axioma Asociativo
+	Si $x,y$ son numeros reales, entonces 
+	$$x+y =y+x \hspace{40px} xy=yx$$
+1. Axioma Asociativo
 	 Si $x,y,z$ son numeros reales, entonces
 	 $$x+(y+z) =(x+y)+z \hspace{40px} x(yz)= (xy)z$$
 3. Propiedad Distributiva
