@@ -71,6 +71,9 @@ $$
 6. Axioma de existencia del reciproco
 	 Para cada numero real $x$ existe un numero real $y$ tal que 
 	 $$xy=yx=1$$
+### Teoremas
+1. Ley de simplificacion para la suma
+	 Si $a+b = a+c$ entonces $b=c$
 ___
 ## References
 1.
