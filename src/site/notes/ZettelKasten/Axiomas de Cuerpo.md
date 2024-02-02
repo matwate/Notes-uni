@@ -66,12 +66,19 @@ $$
 4. Axioma de existencia de elementos neutros
 	Existen dos numeros reales distintos notados $0$ y $1$ tales que para cada numero real $x$
 	$$x+0 = 0+x = x \hspace{40px} 1 \cdot x = x \cdot 1 = x$$
+{ #d78e53}
+
 5. Axioma de existencia de negativos
 	 Para cada numero real $x$ existe un numero real $y$ tal que 
 	 $$x+y = y+x = 0$$
+	
+{ #1dd0eb}
+
 6. Axioma de existencia del reciproco
 	 Para cada numero real $x$ existe un numero real $y$ tal que 
 	 $$xy=yx=1$$
+{ #f7db9c}
+
 ### Teoremas
 1. Ley de simplificacion para la suma
 	 Si $a+b = a+c$ entonces $b=c$
