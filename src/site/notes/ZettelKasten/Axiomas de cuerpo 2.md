@@ -50,6 +50,8 @@ ___
 </div></div>
 
 	>El numero $1$ es el unico que tiene esta propiedad
+	
+	
 4. Posibilidad de la Division: Dados $a, b$ con $a \neq 0$ existe un numero $x$ por el cual $ax =b$, este numero se denomina como $\frac{b}{a}$ y y se llama cociente de $b$ y $a$. Si se da el caso donde $b=1$, entonces este numero $\frac{1}{a}$ se llama reciproco de $a$, y tambien puede ser denominado $a^{-1}$.
 >[!note] 
 >Se asemeja al axioma de existencia del reciproco  en [[ZettelKasten/Axiomas de Cuerpo\|Axiomas de Cuerpo]]
