@@ -8,4 +8,4 @@
 - 01 2/Febrero/2024 [[ZettelKasten/Etica 001\|Etica 001]]
 
 ## Semana 2
-- 02 [[Etica 002\|Etica 002]]
+- 02 [[ZettelKasten/Etica 002\|Etica 002]]
