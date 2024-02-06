@@ -5,7 +5,8 @@
 #MOC
 Clases
 - 001 29/Enero/2024 [[ZettelKasten/Funciones\|Funciones]]
-- 001 31/Enero/2024 [[ZettelKasten/Grafica de funciones trigometricas seno y coseno\|Grafica de funciones trigometricas seno y coseno]]
+- 002 31/Enero/2024 [[ZettelKasten/Grafica de funciones trigometricas seno y coseno\|Grafica de funciones trigometricas seno y coseno]]
+- 003 5/Febrero/2024 [[ZettelKasten/Funciones trigonometricas inversas\|Funciones trigonometricas inversas]]
 
 ### Referencias
 
