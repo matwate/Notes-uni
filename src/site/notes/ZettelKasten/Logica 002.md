@@ -118,7 +118,7 @@ $((p)\implies(q))\iff((\neg(q)) \implies(\neg(p)))$
 Es una Tautologia
 
 
-Traer un ejemplo de un enunciado  verdadero por vacuidad$
+Traer un ejemplo de un enunciado  verdadero por vacuidad
 ___
 ## References
 1.
