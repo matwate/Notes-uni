@@ -50,7 +50,7 @@ Proposicion 4: Sean $a,b,c$ enteros tales que $a|b$ y $a|b+c$ entonces $a|c$
 
 
 1. $$
-(((q) \wedge(\neg r))) \wedge ((p) \vee(r))) \implies (q)
+(((q) \vee(\neg r))) \wedge ((p) \vee(r))) \implies (q)
 $$
 2. Demostrar la Proposicion 2 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettel-kasten/logica-003/#tarea2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -104,7 +104,7 @@ Proposicion 4: Sean $a,b,c$ enteros tales que $a|b$ y $a|b+c$ entonces $a|c$
 
 
 1. $
-(((q) \wedge(\neg r))) \wedge ((p) \vee(r))) \implies (q)
+(((q) \vee(\neg r))) \wedge ((p) \vee(r))) \implies (q)
 $
 2. Demostrar la Proposicion 2 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettel-kasten/logica-003/#tarea2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -158,7 +158,7 @@ Proposicion 4: Sean $a,b,c$ enteros tales que $a|b$ y $a|b+c$ entonces $a|c$
 
 
 1. $
-(((q) \wedge(\neg r))) \wedge ((p) \vee(r))) \implies (q)
+(((q) \vee(\neg r))) \wedge ((p) \vee(r))) \implies (q)
 $
 2. Demostrar la Proposicion 2 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettel-kasten/logica-003/#tarea2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -212,7 +212,7 @@ Proposicion 4: Sean $a,b,c$ enteros tales que $a|b$ y $a|b+c$ entonces $a|c$
 
 
 1. $
-(((q) \wedge(\neg r))) \wedge ((p) \vee(r))) \implies (q)
+(((q) \vee(\neg r))) \wedge ((p) \vee(r))) \implies (q)
 $
 2. Demostrar la Proposicion 2 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettel-kasten/logica-003/#tarea2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -266,7 +266,7 @@ Proposicion 4: Sean $a,b,c$ enteros tales que $a|b$ y $a|b+c$ entonces $a|c$
 
 
 1. $
-(((q) \wedge(\neg r))) \wedge ((p) \vee(r))) \implies (q)
+(((q) \vee(\neg r))) \wedge ((p) \vee(r))) \implies (q)
 $
 2. Demostrar la Proposicion 2 ![[ZettelKasten/Logica 003#^Tarea2\|Logica 003#^Tarea2]]
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettel-kasten/logica-003/#e7ff5d" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
