@@ -56,6 +56,12 @@ ___
 
 </div></div>
 
+
+
+### Tarea
+
+Leerse el libro la fragilidad del bien
+Anticora
 ___
 ## References
 1.[Libro de adela cortina](https://e-aulas.urosario.edu.co/pluginfile.php/3061230/mod_resource/content/0/Adela%20Cortina%20-%20%C3%89tica%20cap.%201.pdf)
