@@ -12,8 +12,8 @@ Tag: #Topic
 ___
 ## Solucion Problema Transmillar
 
->[!hint]- Solucion
->
+>	[!hint]- Solucion
+>	
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
