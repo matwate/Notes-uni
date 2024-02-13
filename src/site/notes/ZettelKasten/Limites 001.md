@@ -76,6 +76,29 @@ Sifnifica que los valores de $f(x)$ puede hacerse arbitrariamente grandes tomand
 
 *Def* la recta a se llama asintota vertical de la curva $f(x)$ si al menos uno de los siguientes enunciados son verdaderos
 ![WhatsApp Image 2024-02-12 at 4.33.57 PM.jpeg](/img/user/Attachments/WhatsApp%20Image%202024-02-12%20at%204.33.57%20PM.jpeg)
+### Mas Ejemplos
+
+$$
+\lim_{ n \to 3^{+}  } \frac{2x}{x-3} = \infty \hspace{100px} \lim_{ n \to 3^{-}  } \frac{2x}{x-3} = \infty
+$$
+```desmos-graph
+y = \frac{2x}{x-3}
+```
+
+- Otro ejemplo de una funcion cuya grafica tiene una asintota vertical es la funcion $y = \ln x$
+- $$
+\lim_{ n \to 0^{+} } \ln x = -\infty 
+$$
+```desmos-graph
+y = \ln{x}
+```
+- $$
+\lim_{ t \to 0 } \frac{5^{t}-1}{t} 
+$$
+```desmos-graph
+y = \frac{5^{t}-1}{t}
+```
+
 ___
 ## References
 1.
