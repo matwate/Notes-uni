@@ -10,6 +10,7 @@ Clases
 - 004 8/Febrero/2024 [[ZettelKasten/Monitoria Logica TNC\|Monitoria Logica TNC]]
 - 005 9/Febreo/2024 [[ZettelKasten/Logica 004\|Logica 004]]
 - 006 14/Febrero/2024 [[ZettelKasten/Logica 005\|Logica 005]]
+- 007 15/Febrero/2024 [[Monitoria Logica TNC 002\|Monitoria Logica TNC 002]]
 
 ## References
  [[Ejercicios de Entrega LTNC\|Ejercicios de Entrega LTNC]]
