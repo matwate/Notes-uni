@@ -14,3 +14,4 @@ Clases
 - 06 8/Febrero/2024 [[ZettelKasten/Ejercicio Tipo Parcial 2\|Ejercicio Tipo Parcial 2]]
 - 07 12/Febrero/2024 [[ZettelKasten/Condicionales 1\|Condicionales 1]]
 - 08 14/Febrero/2024 [[Condicionales 2\|Condicionales 2]]
+- 09 15/Febrero/2024 [[Condiciopnales 3\|Condiciopnales 3]]
