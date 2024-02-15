@@ -13,4 +13,4 @@ Clases
 - 007 15/Febrero/2024 [[Monitoria Logica TNC 002\|Monitoria Logica TNC 002]]
 
 ## References
- [[Ejercicios de Entrega LTNC\|Ejercicios de Entrega LTNC]]
+ [[ZettelKasten/Ejercicios de Entrega LTNC\|Ejercicios de Entrega LTNC]]
