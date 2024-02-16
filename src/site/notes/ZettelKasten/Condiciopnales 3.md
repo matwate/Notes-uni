@@ -127,8 +127,14 @@ int main() {
 
 </div></div>
 
+## Condicionales Anidados
 
-
+- Son un condicional dentro de un condicional.
+>[!example]- Ejemplo en python
+>```py
+>if (a> 10):
+>	if(a < 20):
+>```
 ___
 ## References
 1.
