@@ -12,16 +12,20 @@ Tag: #Topic
 ___
 ## Esquemas de demostracion
 
-1. Para demostrar $$
+1. Para demostrar
+$$
  -x =y
 $$
-- Decimos que $$
+- Decimos que 
+$$
 x + y = 0
 $$
- 2. Para demostrar $$
+ 2. Para demostrar 
+ $$
  a^{-1} = b
 $$
- - Decimos que $$
+ - Decimos que 
+$$
 ab = 1 
 $$
 3. Para demostrar P o q
