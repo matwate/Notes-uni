@@ -9,3 +9,6 @@
 
 ## Semana 2
 - 02 9/Febrero/2024 [[ZettelKasten/Etica 002\|Etica 002]]
+
+## Semana 3
+- 03 16/Febrero/2024 [[ZettelKasten/Etica 003\|Etica 003]]
