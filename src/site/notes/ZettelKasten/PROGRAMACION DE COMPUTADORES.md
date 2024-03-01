@@ -16,4 +16,4 @@ Clases
 - 08 14/Febrero/2024 [[ZettelKasten/Condicionales 2\|Condicionales 2]]
 - 09 15/Febrero/2024 [[ZettelKasten/Condiciopnales 3\|Condiciopnales 3]]
 - 10 21/Febrero/2025 [[ZettelKasten/Ejercicios preparcial\|Ejercicios preparcial]]
-- 11 26/Febrero/2024 [[Ciclos 1\|Ciclos 1]]
+- 11 26/Febrero/2024 [[ZettelKasten/Ciclos 1\|Ciclos 1]]
