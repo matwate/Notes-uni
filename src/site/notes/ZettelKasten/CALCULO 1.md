@@ -9,6 +9,8 @@ Clases
 - 003 5/Febrero/2024 [[ZettelKasten/Funciones trigonometricas inversas\|Funciones trigonometricas inversas]]
 - 004 09/Febrero/2024 [[Monitoria Calculo 001\|Monitoria Calculo 001]]
 - 005 12/Febrero/2024 [[ZettelKasten/Limites 001\|Limites 001]]
+- 006 26/Febrero/2024 [[Limites 002\|Limites 002]]
+- 007 28/Febrero/2024 [[Limites al infinito\|Limites al infinito]]
 
 ### Referencias
 
