@@ -21,6 +21,8 @@ Libro para la clase: [Calculo de Apostol. Pag 46 ](https://calculounicaes.files.
 - 008 22/Febrero/2024[[ZettelKasten/Axiomas de orden\|Axiomas de orden]]
 
 ## Semana 5
-- 009 [[Tarea 22-Feb\|Tarea 22-Feb]]
+- 009 [[ZettelKasten/Tarea 22-Feb\|Tarea 22-Feb]]
+
+-  010 [[Numeros reales, enteros y racionales\|Numeros reales, enteros y racionales]]
 ## Referencias
 1. [Diapositivas Axiomas de Cuerpo](https://e-aulas.urosario.edu.co/pluginfile.php/3070907/mod_resource/content/1/Axiomas%20de%20cuerpo.pdf)
