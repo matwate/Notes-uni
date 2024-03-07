@@ -13,8 +13,9 @@ Clases
 - 007 15/Febrero/2024 [[Monitoria Logica TNC 002\|Monitoria Logica TNC 002]]
 - 008 16/Febrero/2024 [[ZettelKasten/Contraejemplos\|Contraejemplos]]
 - 009 21/Febrero/2024 [[ZettelKasten/EjerciciosLTNC\|EjerciciosLTNC]]
-- 010 28/Febrero/2024 [[Algebra Booleana\|Algebra Booleana]]
-- 011 01/Marzo/2024 [[Conjuntos\|Conjuntos]]
+- 010 28/Febrero/2024 [[ZettelKasten/Algebra Booleana\|Algebra Booleana]]
+- 011 01/Marzo/2024 [[ZettelKasten/Conjuntos\|Conjuntos]]
+- 012 06/Matzo/2024 [[ZettelKasten/Conjuntos 2\|Conjuntos 2]]
 
 ## References
  [[ZettelKasten/Ejercicios de Entrega LTNC\|Ejercicios de Entrega LTNC]]
