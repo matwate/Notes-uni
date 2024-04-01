@@ -11,7 +11,10 @@ Clases
 - 005 12/Febrero/2024 [[ZettelKasten/Limites 001\|Limites 001]]
 - 006 26/Febrero/2024 [[ZettelKasten/Limites 002\|Limites 002]]
 - 007 28/Febrero/2024 [[ZettelKasten/Limites al infinito\|Limites al infinito]]
-- 008 6/Marzo/2024 [[Continuidad\|Continuidad]]
+- 008 6/Marzo/2024 [[ZettelKasten/Continuidad\|Continuidad]]
+- 009 15/Marzo/2024 [[ZettelKasten/Continuidad 002\|Continuidad 002]]
+- 010 18/Marzo/2024 [[ZettelKasten/Derivadas\|Derivadas]]
+- 011 01/Abril/2024 [[Derivacion implicita\|Derivacion implicita]]
 
 ### Referencias
 
