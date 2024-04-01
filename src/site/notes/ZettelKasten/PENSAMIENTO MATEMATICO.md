@@ -23,6 +23,9 @@ Libro para la clase: [Calculo de Apostol. Pag 46 ](https://calculounicaes.files.
 ## Semana 5
 - 009 [[ZettelKasten/Tarea 22-Feb\|Tarea 22-Feb]]
 
--  010 [[Numeros reales, enteros y racionales\|Numeros reales, enteros y racionales]]
+-  010 [[ZettelKasten/Numeros reales, enteros y racionales\|Numeros reales, enteros y racionales]]
+
+- 011 [[ZettelKasten/Cotas Superiores\|Cotas Superiores]]
+- 012 [[ZettelKasten/Completitud y Propiedad Arquimediana\|Completitud y Propiedad Arquimediana]]
 ## Referencias
 1. [Diapositivas Axiomas de Cuerpo](https://e-aulas.urosario.edu.co/pluginfile.php/3070907/mod_resource/content/1/Axiomas%20de%20cuerpo.pdf)
