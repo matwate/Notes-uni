@@ -14,7 +14,7 @@ Clases
 - 008 6/Marzo/2024 [[ZettelKasten/Continuidad\|Continuidad]]
 - 009 15/Marzo/2024 [[ZettelKasten/Continuidad 002\|Continuidad 002]]
 - 010 18/Marzo/2024 [[ZettelKasten/Derivadas\|Derivadas]]
-- 011 01/Abril/2024 [[Derivacion implicita\|Derivacion implicita]]
+- 011 01/Abril/2024 [[ZettelKasten/Derivacion implicita\|Derivacion implicita]]
 
 ### Referencias
 
