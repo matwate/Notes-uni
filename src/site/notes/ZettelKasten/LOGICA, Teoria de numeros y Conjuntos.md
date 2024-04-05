@@ -19,7 +19,7 @@ Clases
 - 013 08/Marzo/2024 [[ZettelKasten/Cuantificadores\|Cuantificadores]]
 - 014 15/Marzo/2024 [[ZettelKasten/Contradiccion\|Contradiccion]]
 - 015 20/Marzo/2024 [[ZettelKasten/Conjuntos 2-2\|Conjuntos 2-2]]
-- 016 22/Marzo/2024 [[Conteo\|Conteo]]
+- 016 22/Marzo/2024 [[ZettelKasten/Conteo\|Conteo]]
 ## References
  [[ZettelKasten/Ejercicios de Entrega LTNC\|Ejercicios de Entrega LTNC]]
  [[ZettelKasten/PreparcialLTNC/EjerciciosPreParcialLTNC\|EjerciciosPreParcialLTNC]]
