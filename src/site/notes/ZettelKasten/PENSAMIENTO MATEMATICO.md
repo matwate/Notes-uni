@@ -28,6 +28,6 @@ Libro para la clase: [Calculo de Apostol. Pag 46 ](https://calculounicaes.files.
 - 011 [[ZettelKasten/Cotas Superiores\|Cotas Superiores]]
 - 012 [[ZettelKasten/Completitud y Propiedad Arquimediana\|Completitud y Propiedad Arquimediana]]
 - 013 [[ZettelKasten/Monitoria 006 Pensamiento\|Monitoria 006 Pensamiento]]
-- 014 [[Propiedades de supremos e infimos\|Propiedades de supremos e infimos]]
-## Referencias
+- 014 [[ZettelKasten/Propiedades de supremos e infimos\|Propiedades de supremos e infimos]]
+ - 015 [[Monitoria 05\|Monitoria 05]]
 1. [Diapositivas Axiomas de Cuerpo](https://e-aulas.urosario.edu.co/pluginfile.php/3070907/mod_resource/content/1/Axiomas%20de%20cuerpo.pdf)
