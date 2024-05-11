@@ -20,7 +20,12 @@ Clases
 - 014 15/Marzo/2024 [[ZettelKasten/Contradiccion\|Contradiccion]]
 - 015 20/Marzo/2024 [[ZettelKasten/Conjuntos 2-2\|Conjuntos 2-2]]
 - 016 22/Marzo/2024 [[ZettelKasten/Conteo\|Conteo]]
-- 017 10/Abril/2024 [[Relaciones\|Relaciones]]
+- 017 10/Abril/2024 [[ZettelKasten/Relaciones\|Relaciones]]
+- 018 17/Abril/2024 [[ZettelKasten/Relaciones II\|Relaciones II]]
+- 019 19/Abri/2024 [[ZettelKasten/Particiones\|Particiones]]
+- 020 20/Abril/2024 [[Induccion\|Induccion]]
+- 021 3/Mayo/2024 [[Induccion Fuerte\|Induccion Fuerte]]
+- 022 10/Mayo/2024 [[Funciones (Logica)\|Funciones (Logica)]]
 ## References
  [[ZettelKasten/Ejercicios de Entrega LTNC\|Ejercicios de Entrega LTNC]]
  [[ZettelKasten/PreparcialLTNC/EjerciciosPreParcialLTNC\|EjerciciosPreParcialLTNC]]
