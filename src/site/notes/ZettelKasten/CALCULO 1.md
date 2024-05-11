@@ -15,6 +15,8 @@ Clases
 - 009 15/Marzo/2024 [[ZettelKasten/Continuidad 002\|Continuidad 002]]
 - 010 18/Marzo/2024 [[ZettelKasten/Derivadas\|Derivadas]]
 - 011 01/Abril/2024 [[ZettelKasten/Derivacion implicita\|Derivacion implicita]]
+- 012 17/Abril/2024 [[ZettelKasten/Derivada de funciones Trigonometricas\|Derivada de funciones Trigonometricas]]
+- 012 22/Abril/2024 [[ZettelKasten/Funciones Hiperbolicas\|Funciones Hiperbolicas]]
 
 ### Referencias
 
