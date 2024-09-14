@@ -1,16 +1,9 @@
-# Notas de la MACC Semestre 1
+# Digital Obsidian Garden
+This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
+See the README in the plugin repo for information on how to set it up.
 
-### En este repo se publican los apuntes de MACC, primer semestre, para verlos ve a [La pagina web](https://notes-uni.vercel.app/)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
 
-Si quieres contribuir con tus apuntes
-
-1. Forkea este repo
-2. Clonalo en tu dispositivo usando `git clone `
-3. Modifica la informacion que desees
-4. Haz una Pull request
-
-# IMPORTANTE
-
-Los archivos .md Markdown con los apuntes estan en `src/site/notes/ZettelKasten` y usan la notacion Markdown de [Obsidian](https://obsidian.md/) tener eso en cuenta a la hora de contribuir
-
-A la hora de contribuir, Limitarse a añadir informacion o editar informacion con respecto a los apuntes, evitar modificar cuestiones de plugins y temas
+---
+## Docs
+Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
