@@ -7,3 +7,5 @@
 
 [[Resultado Prompt Basica\|Resultado Prompt Basica]]
 [[Resultado Prompt CoT\|Resultado Prompt CoT]]
+
+---
