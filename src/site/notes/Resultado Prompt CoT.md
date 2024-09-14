@@ -41,16 +41,11 @@ naciones? Esto podría incluir:
 
 **Conclusión sobre cada subproblema:**
 
-1. **Fuente del problema**: La mayoría de las fuentes de contaminación por plásticos en los océanos provienen de la población costera, específicamente
-de la falta de infraestructura adecuada para reciclaje y gestión de residuos.
-2. **Tipos de plásticos**: Los microplásticos y el plástico de uso único son los tipos más comunes encontrados en los océanos, debido a su baja
-biodegradabilidad y duración en el tiempo.
-3. **Impacto ambiental**: El impacto del residuo plástico es grave e involucra la muerte y daño a las especies marinas, así como entorpecimiento de la
-cadena alimenticia y alteración de hábitats críticos.
-4. **Conciencia pública y participación**: La población generalmente tiene conciencia del problema, pero la participación es limitada debido a un
-sistema de reciclaje ineficiente y a una falta de compromiso real en modificar los comportamientos.
-5. **Sistema de reciclaje y gestión de residuos**: El sistema actual está lejos de ser eficaz, con tasas bajas de reciclaje y una gran cantidad de
-plástico que termina en vertederos o directamente en el medio ambiente.
+1. **Fuente del problema**: La mayoría de las fuentes de contaminación por plásticos en los océanos provienen de la población costera, específicamente de la falta de infraestructura adecuada para reciclaje y gestión de residuos.
+2. **Tipos de plásticos**: Los microplásticos y el plástico de uso único son los tipos más comunes encontrados en los océanos, debido a su baja biodegradabilidad y duración en el tiempo.
+3. **Impacto ambiental**: El impacto del residuo plástico es grave e involucra la muerte y daño a las especies marinas, así como entorpecimiento de la cadena alimenticia y alteración de hábitats críticos.
+5. **Conciencia pública y participación**: La población generalmente tiene conciencia del problema, pero la participación es limitada debido a un sistema de reciclaje ineficiente y a una falta de compromiso real en modificar los comportamientos.
+6. **Sistema de reciclaje y gestión de residuos**: El sistema actual está lejos de ser eficaz, con tasas bajas de reciclaje y una gran cantidad de plástico que termina en vertederos o directamente en el medio ambiente.
 
 **Solución final:**
 
