@@ -56,16 +56,20 @@ plástico que termina en vertederos o directamente en el medio ambiente.
 
 Considerando las conclusiones anteriores, propongo una solución integral para reducir la contaminación por plásticos en los océanos:
 
-**1. Implementar un sistema de reciclaje eficaz y descentralizado**: Esto incluye la implementación de infraestructuras de reciclaje locales, con
-énfasis en el reciclaje de microplásticos y plástico de uso único.
-**2. Desarrollar programas de educación y conciencia pública amplia**: La población debe estar al tanto de los riesgos y consecuencias del problema,
-así como de las mejores prácticas para prevenirlo, incluyendo la participación en iniciativas de reciclaje comunitarias.
-**3. Promover el uso de materiales sostenibles y biodegradables**: Fomentar la producción y adopción de productos con menos impacto ambiental, como
-bolsas hechas a partir de algodón o plástico biodegradable.
-**4. Establecer programas de limpieza costera regulares**: Implementar planes para recoger residuos y microplásticos en áreas críticas, involucrando
-también a la comunidad y a las empresas locales.
-**5. Desarrollar tecnologías innovadoras para abordar el problema**: Investir en investigaciones y desarrollos de tecnologías que permitan identificar
-y recoger eficazmente microplásticos y otros tipos de residuos en los océanos.
+**1. Implementar un sistema de reciclaje eficaz y descentralizado**: 
+	Esto incluye la implementación de infraestructuras de reciclaje locales, con énfasis en el reciclaje de microplásticos y plástico de uso único.
+
+**2. Desarrollar programas de educación y conciencia pública amplia**:
+	La población debe estar al tanto de los riesgos y consecuencias del problema, así como de las mejores prácticas para prevenirlo, incluyendo la participación en iniciativas de reciclaje comunitarias.
+	
+**3. Promover el uso de materiales sostenibles y biodegradables**:
+	Fomentar la producción y adopción de productos con menos impacto ambiental, como bolsas hechas a partir de algodón o plástico biodegradable.
+	
+**4. Establecer programas de limpieza costera regulares**: 
+	Implementar planes para recoger residuos y microplásticos en áreas críticas, involucrando también a la comunidad y a las empresas locales.
+
+**5. Desarrollar tecnologías innovadoras para abordar el problema**: 
+	Investir en investigaciones y desarrollos de tecnologías que permitan identificar y recoger eficazmente microplásticos y otros tipos de residuos en los océanos.
 
 La implementación efectiva de estos puntos garantizará una reducción significativa en la cantidad de plástico en nuestros océanos, protegiendo así las
 especies marinas y su hábitat.
