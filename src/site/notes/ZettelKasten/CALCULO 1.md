@@ -17,6 +17,7 @@ Clases
 - 011 01/Abril/2024 [[ZettelKasten/Derivacion implicita\|Derivacion implicita]]
 - 012 17/Abril/2024 [[ZettelKasten/Derivada de funciones Trigonometricas\|Derivada de funciones Trigonometricas]]
 - 012 22/Abril/2024 [[ZettelKasten/Funciones Hiperbolicas\|Funciones Hiperbolicas]]
+- 013 15/Mayo/2024 [[ZettelKasten/Maximos y Minimos\|Maximos y Minimos]]
 
 ### Referencias
 
