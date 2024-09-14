@@ -30,6 +30,7 @@ Libro para la clase: [Calculo de Apostol. Pag 46 ](https://calculounicaes.files.
 - 013 [[ZettelKasten/Monitoria 006 Pensamiento\|Monitoria 006 Pensamiento]]
 - 014 [[ZettelKasten/Propiedades de supremos e infimos\|Propiedades de supremos e infimos]]
  - 015 [[ZettelKasten/Monitoria 05\|Monitoria 05]]
- - 016 [[No se todavia\|No se todavia]]
- - 017 [[Induccion (pensamiento\|Induccion (pensamiento]]
+ - 016 [[ZettelKasten/No se todavia\|No se todavia]]
+ - 017 [[ZettelKasten/Induccion (pensamiento\|Induccion (pensamiento]]
+ - 018 [[ZettelKasten/Principio Del Palomar\|Principio Del Palomar]]
 1. [Diapositivas Axiomas de Cuerpo](https://e-aulas.urosario.edu.co/pluginfile.php/3070907/mod_resource/content/1/Axiomas%20de%20cuerpo.pdf)
